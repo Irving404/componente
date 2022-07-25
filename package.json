@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/irving404.lwc-l5vkoaec",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve uZS42cqvVMt3hLgYdULa --open"
+  }
+}
